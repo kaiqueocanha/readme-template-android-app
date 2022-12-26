@@ -76,4 +76,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-Google Play and the Google Play logo are trademarks of Google LLC.
+Google Play e o logótipo do Google Play são marcas comerciais da Google LLC.
