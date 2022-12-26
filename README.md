@@ -60,6 +60,12 @@ Ou faça o download da <a href="https://github.com/kaiqueocanha/readme-template-
 </br></br>
 <img width="500px" src="screenshots/arquitetura.png"/>
 <br>
+
+## API de terceiros
+
+LiveList usa a [PokeAPI](https://pokeapi.co/) para suas chamadas REST<br>
+PokeAPI disponibiliza gratuitamente uma API REST completa com a listagem dos pokemons.
+
 # Licença
 ```xml
 
