@@ -40,6 +40,7 @@ Ou faça o download da <a href="https://github.com/kaiqueocanha/readme-template-
   - ViewModel: Gerencia o detentor de dados relacionados à interface do usuário e o ciclo de vida. Permite que os dados sobrevivam a alterações de configuração, como rotações de tela.
   - ViewBinding: Liga os componentes do XML no Kotlin através de uma classe que garante segurança de tipo e outras vantagens.
   - Room: Biblioteca de abstração do banco de dados SQLite que garante segurança em tempo de compilação e facilidade de uso.
+  - Custom Views: View customizadas feitas do zero usando XML.
   - [...]
 
 - Arquitetura
@@ -50,7 +51,7 @@ Ou faça o download da <a href="https://github.com/kaiqueocanha/readme-template-
   
 - Bibliotecas
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
-  - [Glide]([https://github.com/square/retrofit](https://github.com/bumptech/glide)): Para carregamento de imagens e cacheamento das mesmas.
+  - [Glide](https://github.com/bumptech/glide): Para carregamento de imagens e cacheamento das mesmas.
   - [Timber](https://github.com/JakeWharton/timber): Para registros de logs mais amigáveis que facilitam o debug.
   - [...]
 
