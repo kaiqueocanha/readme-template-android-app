@@ -20,13 +20,13 @@
 </br>
 
 <p float="left" align="center">
-  <img alt="screenshot" width="250px" src="screenshots/screenshot-1.png"/>
-  <img alt="screenshot" width="250px" src="screenshots/screenshot-2.png"/>
-  <img alt="screenshot" width="250px" src="screenshots/screenshot-3.png"/>
+  <img alt="screenshot" width="30%" src="screenshots/screenshot-1.png"/>
+  <img alt="screenshot" width="30%" src="screenshots/screenshot-2.png"/>
+  <img alt="screenshot" width="30%" src="screenshots/screenshot-3.png"/>
 </p>
 
 ## Download
-<a href='https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponível no Google Play' width="180px" src='https://play.google.com/intl/en_us/badges/static/images/badges/pt_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponível no Google Play' width="15%" src='https://play.google.com/intl/en_us/badges/static/images/badges/pt_badge_web_generic.png'/></a>
 
 Ou faça o download da <a href="https://github.com/kaiqueocanha/readme-template-android-app/blob/main/apk/app-debug.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
 
@@ -58,13 +58,25 @@ Ou faça o download da <a href="https://github.com/kaiqueocanha/readme-template-
 ## Arquitetura
 **LiveList** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
-<img width="500px" src="screenshots/arquitetura.png"/>
+<img width="60%" src="screenshots/arquitetura.png"/>
 <br>
 
 ## API de terceiros
 
 LiveList usa a [PokeAPI](https://pokeapi.co/) para suas chamadas REST<br>
 PokeAPI disponibiliza gratuitamente uma API REST completa com a listagem dos pokemons.
+
+## Features
+
+### Listagem de lives
+<img src="screenshots/feature-1.gif" width="33%"/>
+
+Listagem cronológica de lives com filtragem por data, categoria e tags. Busca por título e descrição da live. Carregamento das imagens de forma dinâmica da web. Layout de card criado com CardView e ConstraintLayout.
+
+### Sistema de favoritos
+<img src="screenshots/feature-2.gif" width="33%"/>
+
+Texto de Exemplo. Listagem cronológica de lives com filtragem por data, categoria e tags. Busca por título e descrição da live. Carregamento das imagens de forma dinâmica da web. Layout de card criado com CardView e ConstraintLayout.
 
 # Licença
 ```xml
