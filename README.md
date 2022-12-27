@@ -1,3 +1,5 @@
+Esse repositório é um template de README para projetos. Aprenda a utilizar o template corretamente nessa [aula no youtube](https://www.youtube.com/watch?v=ea6X21jspco&ab_channel=KaiqueOcanha-AulasdeAndroid).
+
 <h1 align="center">LiveList</h1>
 
 <p align="center">
