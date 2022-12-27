@@ -69,12 +69,12 @@ PokeAPI disponibiliza gratuitamente uma API REST completa com a listagem dos pok
 ## Features
 
 ### Listagem de lives
-<img src="screenshots/feature-1.gif" width="33%"/>
+<img src="screenshots/feature-1.gif" width="25%"/>
 
 Listagem cronológica de lives com filtragem por data, categoria e tags. Busca por título e descrição da live. Carregamento das imagens de forma dinâmica da web. Layout de card criado com CardView e ConstraintLayout.
 
 ### Sistema de favoritos
-<img src="screenshots/feature-2.gif" width="33%"/>
+<img src="screenshots/feature-2.gif" width="25%"/>
 
 Texto de Exemplo. Listagem cronológica de lives com filtragem por data, categoria e tags. Busca por título e descrição da live. Carregamento das imagens de forma dinâmica da web. Layout de card criado com CardView e ConstraintLayout.
 
