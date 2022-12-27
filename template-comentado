@@ -55,7 +55,7 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 
 ## Arquitetura
 APRESENTE A ARQUITETURA UTILIZADA NO PROJETO
-**LiveList** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
+**Nome do aplicativo** utiliza a arquitetura MVVM e o padrão de Repositories, que segue as [recomendações oficiais do Google](https://developer.android.com/topic/architecture).
 </br></br>
 ADICIONE UM FLUXOGRAMA DA ARQUITETURA UTILIZADA - https://excalidraw.com/
 <br>
@@ -64,6 +64,17 @@ ADICIONE UM FLUXOGRAMA DA ARQUITETURA UTILIZADA - https://excalidraw.com/
 
 COLOQUE O NOME, LINK E DESCRIÇÃO DAS APIS UTILIZADAS NO PROJETO
 
+## Features
+
+### Feature 1
+<img src="screenshots/feature-1.gif" width="25%"/>
+
+Texto de exemplo
+
+### Feature 2
+<img src="screenshots/feature-2.gif" width="25%"/>
+
+Texto de Exemplo.
 
 # Licença
 
